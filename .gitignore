@@ -6,3 +6,4 @@
 /_nn_filtered_sample.wav
 /_noisy_sample.wav
 /venv
+/model.h5
